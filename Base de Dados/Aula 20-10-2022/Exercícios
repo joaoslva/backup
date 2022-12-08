@@ -1,0 +1,17 @@
+Exercício 1
+
+a)
+REFS (T, A✔️ , I✔️ , C✔️ , S#✔️ , R✔️ , S✔️ , E✔️ , V✔️ , N✔️ , PI, PF, Y✔️ , M✔️ )
+
+X= S# V N A
+S# -> S
+S -> S#,R,E
+S,V,N -> Y,M
+A -> I,C
+
+Não chave é porque X não dá o domínio
+
+b)
+REFS (T, A, I, C, S#, R, S, E, V, N, PI, PF, Y, M)
+
+Candidate keys {S, PI, A, V, N}, {S#, PI, A, V, N}

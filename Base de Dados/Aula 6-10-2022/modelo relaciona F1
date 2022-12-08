@@ -1,0 +1,10 @@
+Formula 1
+
+Marca(idMarca, nome, pais, pontos=
+Carro(idCarro, peso, potencia, velocidade, idMarca -> Marca)
+Piloto(idPiloto, nome, morada, idade, nacionalidade, pontos, idCarro -> Carro)
+Corrida(idCorrida, data, voltas, nome, idCircuito -> Circuito)
+Circuito(idCircuito, nome, local, pais, perimetro)
+
+Desistencia(idPiloto -> Piloto, idCorrida -> Corrida, volta, motivo)
+Grelha(idPiloto -> Piloto, idCorrida -> Corrida, posicao, classificacao)

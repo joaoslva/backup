@@ -1,0 +1,3 @@
+/home/juao/Desktop/Sistemas Operativos/Aula 27-09-2022/badpointer/cmake-build-debug/CMakeFiles/badpointer.dir
+/home/juao/Desktop/Sistemas Operativos/Aula 27-09-2022/badpointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juao/Desktop/Sistemas Operativos/Aula 27-09-2022/badpointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

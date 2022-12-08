@@ -1,0 +1,5 @@
+No primeiro exemplo de código, n1 e n2 não são alterados
+porque a função trabalha com variáveis que são locais.
+
+No segundo exemplo, n1 e n2 são trocados porque a função
+trablha com valores por referência

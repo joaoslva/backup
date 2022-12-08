@@ -1,0 +1,38 @@
+# ninja log v5
+1	1772	1669999542878882886	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+2	1781	1669999542882883060	CMakeFiles/aed2223_p10.dir/Tests/funWithGraphs.cpp.o	2dc0dd22c5d9cc30
+3	2750	1669999543778921917	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	21b8cea58275e96d
+0	2752	1669999543770921570	CMakeFiles/aed2223_p10.dir/main.cpp.o	72d1e5131733a9df
+1	3461	1669999544566956124	CMakeFiles/aed2223_p10.dir/Tests/tests.cpp.o	86a9c28d82cc1df8
+2	7028	1669999548127111029	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	489b2b269a35b891
+7028	7272	1669999548355120974	lib/libgtestd.a	1ea062445d46364a
+7272	7354	1669999548463125685	lib/libgtest_maind.a	93b29d9eb211cd66
+7354	7710	1669999548815141039	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	333	1669999573792245413	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+333	540	1669999573996254545	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+1	326	1669999604981662561	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+326	537	1669999605189672147	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	1071	1669999669648716176	CMakeFiles/aed2223_p10.dir/Tests/tests.cpp.o	86a9c28d82cc1df8
+1071	1266	1669999669844725639	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	327	1669999745404452178	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+2	1086	1669999746164490378	CMakeFiles/aed2223_p10.dir/Tests/tests.cpp.o	86a9c28d82cc1df8
+1086	1283	1669999746360500234	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+1	370	1669999891748006243	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+1	1121	1669999892500045915	CMakeFiles/aed2223_p10.dir/Tests/tests.cpp.o	86a9c28d82cc1df8
+1121	1311	1669999892688055834	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	323	1669999936148326978	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+323	520	1669999936344298937	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+1	396	1669999944095209307	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+396	598	1669999944295181770	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	319	1669999972027604953	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+319	507	1669999972215582371	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	323	1670000154921525219	CMakeFiles/aed2223_p10.dir/Tests/funWithGraphs.cpp.o	2dc0dd22c5d9cc30
+2	528	1670000154937524533	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+1	1163	1670000155761489439	CMakeFiles/aed2223_p10.dir/Tests/tests.cpp.o	86a9c28d82cc1df8
+1163	1374	1670000155969480585	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+1	330	1670000228727091589	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+330	526	1670000228919086952	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	342	1670001111159806287	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+342	538	1670001111355803299	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204
+2	318	1670001154999209419	CMakeFiles/aed2223_p10.dir/Tests/graph.cpp.o	be355e25ded68b32
+318	516	1670001155195207073	/home/juao/Desktop/AED/Aula 2-12-2022/aed2223_p10/Tests/aed2223_p10	dfb3f7b982a9204

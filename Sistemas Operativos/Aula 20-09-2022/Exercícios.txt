@@ -1,0 +1,24 @@
+Exercício 1
+
+Com cd ~ volto à diretória base. cd avança para o diretório especificado
+
+Exercício 5
+
+É uma expreção regular, cada parentises reto são as possibilidades que cada caracter pode ser no nome do ficheiro
+
+Exercício 6
+dir1
+└── dir3
+    ├── f3a.txt
+    ├── g3c.pdf
+    └── g56.doc
+    
+Exercício 7
+
+664 para todos
+
+Exercício 8
+
+drw-r--r-- 2 juao juao 4096 set 20 09:44 doit
+
+

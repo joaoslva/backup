@@ -1,0 +1,36 @@
+Exercício 1
+
+  |   O   |   Ω   |   Θ   |
+  |-------|-------|-------|
+a)|   T   |   F   |   F   |
+b)|   T   |   T   |   T   |
+c)|   F   |   T   |   F   |
+d)|   T   |   T   |   T   |
+e)|   T   |   T   |   T   |
+f)|   T   |   F   |   F   |
+g)|   T   |   T   |   T   | 
+h)|   F   |   T   |   F   |
+
+ 
+Exercício 2
+
+a) n * (n + 1) -> n²
+b) n + n + n = 3n -> n
+c) n * n/2 * 10 = 5n² -> n²
+d) (n - 2) * log2(n) -> nlog(n)
+e) n
+f) log2(n) -> log(n)
+
+Exercício 3
+
+100ms      100ms
+50ms       200ms
+25ms       400ms
+12.5ms     800ms
+0.09765ms  104857600ms
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+# ninja log v5
+297	485	1664570378148364088	../Tests/aed2223_p02	e3a783d82f6314be
+5386	5517	1664553318600091800	lib/libgtest_maind.a	339fa3707b0eee91
+0	1511	1664553314376668560	CMakeFiles/aed2223_p02.dir/main.cpp.o	bc4584e2dd6eeb9
+5	3132	1664570279231563289	CMakeFiles/aed2223_p02.dir/Tests/tests.cpp.o	95389172fc771026
+1	1510	1664553314376668560	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	21e5551964220021
+1	297	1664570377960362606	CMakeFiles/aed2223_p02.dir/Tests/funWithComplexity.cpp.o	780888864060ada3
+4784	5386	1664553318320129519	lib/libgtestd.a	5f45f259dd1a7e0b
+0	369	1664553313448797485	CMakeFiles/aed2223_p02.dir/Tests/Timer.cpp.o	5015d3549e4a56b
+1	4784	1664553317860191612	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c54b277fb7c6a38e

@@ -1,0 +1,3 @@
+/home/juao/Desktop/Sistemas Operativos/Aula 11-10-2022/cmake-build-debug/CMakeFiles/Aula_11_10_2022.dir
+/home/juao/Desktop/Sistemas Operativos/Aula 11-10-2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juao/Desktop/Sistemas Operativos/Aula 11-10-2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
